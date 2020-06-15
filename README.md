@@ -1,5 +1,8 @@
 # Racism Breaker
 
+[An ethical software project](https://ethicalsource.dev)
+----
+
 The racist naming on GitHub needs to stop, here's how you can rename your branch from the racist term master which hurts black people to the much nicer and and less charged word: main!
 
 ```bash
