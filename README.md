@@ -10,8 +10,8 @@ git branch -m master main
 git push -u origin main
 ```
 
-It's really that easy, racism is no more thanks to us awesome woke javascript software engineers!
+It's really that easy, we've solved racism!
 
-If you feel like going the extra mile for extra credit, go to your favorite open source project and tell them to do the same.
+If you feel like going the extra mile for extra credit, go to your favorite open source project and ask them to do the same.
 
-Open an issue if they fail to comply and we'll keep work towards publishing this list of the racist developers and organizations that refuse to change!
+Open an issue here if they fail to comply and we'll keep work towards publishing this list of the racist developers and organizations that refuse to change!
