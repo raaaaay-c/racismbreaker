@@ -9,4 +9,4 @@ git push -u origin main
 
 Now go to your favorite open source project and tell them to do the same, it ends today.
 
-Open an issue if they fail to comply and we'll keep work towards publishing this list of the racist developers and organizations.
+Open an issue if they fail to comply and we'll keep work towards publishing this list of the racist developers and organizations that refuse to change!
